@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0991-broken-calculator) |
+## String
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Backtracking
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->

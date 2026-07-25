@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

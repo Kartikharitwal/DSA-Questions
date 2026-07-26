@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 <!---LeetCode Topics End-->

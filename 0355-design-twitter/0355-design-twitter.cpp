@@ -1,10 +1,9 @@
 class Twitter {
 public:
+    using p = pair<int, int>;
+    unordered_map<int, unordered_set<int>> follower;
     unordered_map<int, vector<pair<int, int>>> tweets;
-    // {user_id,{time,tweetId}}
     int time = 0;
-    unordered_map<int, unordered_set<int>> followers;
-    // {followerId--->>followeeId}
     Twitter() { time = 0; }
 
     void postTweet(int userId, int tweetId) {
@@ -13,50 +12,39 @@ public:
     }
 
     vector<int> getNewsFeed(int userId) {
-
-        priority_queue<pair<int, int>, vector<pair<int, int>>,
-                       greater<pair<int, int>>>
-            pq;
-
-        // Add user's own tweets
-        for (auto tweet : tweets[userId]) {
-            pq.push(tweet);
-
-            if (pq.size() > 10)
+        priority_queue<p, vector<p>, greater<p>> pq;
+        vector<p> v = tweets[userId];
+        for (auto it : v) {
+            pq.push(it);
+            if (pq.size() > 10) {
                 pq.pop();
+            }
         }
-
-        // Add tweets of all followees
-        for (auto followee : followers[userId]) {
-            for (auto tweet : tweets[followee]) {
-
-                pq.push(tweet);
+        for (auto it : follower[userId]) {
+            for (auto temp : tweets[it]) {
+                pq.push(temp);
 
                 if (pq.size() > 10)
                     pq.pop();
             }
         }
-
         vector<int> ans;
-
         while (!pq.empty()) {
-            ans.push_back(pq.top().second); // tweetId
+            ans.push_back(pq.top().second);
             pq.pop();
         }
-
         reverse(ans.begin(), ans.end());
-
         return ans;
     }
 
     void follow(int followerId, int followeeId) {
-        followers[followerId].insert(followeeId);
+        follower[followerId].insert(followeeId);
     }
 
     void unfollow(int followerId, int followeeId) {
-        if (followers[followerId].find(followeeId) !=
-            followers[followerId].end()) {
-            followers[followerId].erase(followeeId);
+        if (follower[followerId].find(followeeId) !=
+            follower[followerId].end()) {
+            follower[followerId].erase(followeeId);
         }
     }
 };

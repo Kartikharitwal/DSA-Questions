@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->

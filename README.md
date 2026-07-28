@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0991-broken-calculator) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Hash Table
 |  |

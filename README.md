@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -83,8 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
+## Sliding Window
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->

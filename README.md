@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
 ## Matrix
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0355-design-twitter](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0355-design-twitter) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
@@ -94,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

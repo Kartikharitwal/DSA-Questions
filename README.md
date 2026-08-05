@@ -107,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

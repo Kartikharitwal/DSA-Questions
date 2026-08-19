@@ -111,12 +111,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
+| [3528-unit-conversion-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3528-unit-conversion-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
+| [3528-unit-conversion-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3528-unit-conversion-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
+| [3528-unit-conversion-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3528-unit-conversion-i) |
 <!---LeetCode Topics End-->

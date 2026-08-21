@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3938-maximum-path-intersection-sum-in-a-grid](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3938-maximum-path-intersection-sum-in-a-grid) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0991-broken-calculator](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0991-broken-calculator) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
@@ -122,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3310-remove-methods-from-project) |
 | [3528-unit-conversion-i](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3528-unit-conversion-i) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->

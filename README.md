@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0140-word-break-ii) |
+| [0414-third-maximum-number](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kartikharitwal/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Kartikharitwal/DSA-Questions/tree/master/0948-bag-of-tokens) |
 ## Math
